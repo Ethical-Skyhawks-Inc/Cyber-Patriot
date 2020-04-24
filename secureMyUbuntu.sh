@@ -1,9 +1,7 @@
 #!/bin/bash
-#
 #	Program:	BASH Ubuntu Security Scipts
 #	File:		secureMyUbuntu.sh
 #	Author:		omegablue
-#
 #********************************************************************
 BLUE="\e[94m"
 RED="\e[91m"
